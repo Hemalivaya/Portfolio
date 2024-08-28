@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Food</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fontawesome-iconpicker/3.2.0/css/fontawesome-iconpicker.css" integrity="sha512-9yS+ck0i78HGDRkAdx+DR+7htzTZJliEsxQOoslJyrDoyHvtoHmEv/Tbq8bEdvws7s1AVeCjCMOIwgZTGPhySw==" crossorigin="anonymous" referrerpolicy="no-referrer" />">
+    <link rel="stylesheet" href="Myfood.css">
+</head>
+<body>
+    <header>
+       <p1>Anand Bhojan</p1>
+        <div id="tagline">
+        Every Meal, Made with Love
+        </div>
+    </header>
+    <div class="sr"> 
+            <img src="C:\Users\Gudiya\Desktop\github\Anyname\logo.png" alt="Anandbhojan">
+
+        <div class="panel">
+            <a>About Me</a>
+            <a>Food Recipies </a>
+            <a>Menu</a>
+            <a> Stay Healthy Blogs</a>
+            <input type="text" id="Search" placeholder="Search here" >
+         </div>
+       
+    </div>  
+
+    <div class="content">
+        <div id="image">
+            <img src="C:\Users\Gudiya\Desktop\github\Anyname\top-view-spices-composition.jpg" width="300px" height="300px">
+        </div>
+
+        <div class="sidebar">
+            <H2 style="font-size: 26px;margin-left: 350px; text-align: center;">Namaste!</H2> 
+            <br><br>
+            <p style="font-size: 15; text-align: center; margin-left: 350px; margin-right: 5px;"> We're dedicated to providing you with wholesome, nutritious meals that enhance your well-being. Our mission is to make healthy eating accessible and enjoyable, helping you boost energy, improve mood, and support long-term vitality. Thank you for joining us on this journey to a healthier you!</p>
+
+        </div>
+    
+    </div>
+ <br>
+ <br>
+<br>
+<br>
+    <div class="sidebar2">
+       <H2> Our Top Selling Products</H2>
+</div>
+<br>
+<div class="selling-products"> 
+    <div class="product">
+        <img src="C:\Users\Gudiya\Desktop\github\Anyname\new-demo\gujarati thali.jpg" alt="Gujarati Thali">
+        <p>Roti Chawal Sabji Combo—a perfect trio of soft, fresh rotis, fluffy basmati rice, and a rich, flavorful vegetable curry. This classic combo offers a balanced, hearty meal that delivers both comfort and authenticity. Experience the perfect harmony of taste and tradition in every bite!</p>
+    </div>
+    <div class="product">
+        <img src="C:\Users\Gudiya\Desktop\github\Anyname\new-demo\punj" alt="Punjabi Thali">
+        <p>Experience the heart of Punjabi cuisine with our Thali: buttery naan, creamy Makhani Sabji, flavorful Dal Fry, and aromatic Jeera Rice. Each dish is crafted with authentic spices for a truly satisfying meal.</p>
+    </div>
+ <script src="Trial.js"></script>
+</body>
+</html>
